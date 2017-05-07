@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C9E92C5D-25EB-43E1-9734-38247A982FDD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Pine.Bll</RootNamespace>
+    <AssemblyName>BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.4.5.6\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Net.Http.2.0.20710.0\lib\net40\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Formatting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.4.0.20710.0\lib\net40\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Net.Http.2.0.20710.0\lib\net40\System.Net.Http.WebRequest.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.4.0.20710.0\lib\net40\System.Web.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.4.0.20710.0\lib\net40\System.Web.Http.WebHost.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Advertisement\Advertisement.cs" />
+    <Compile Include="Advertisement\AdvertisementController.cs" />
+    <Compile Include="Advertisement\AdvertisementItems.cs" />
+    <Compile Include="Advertisement\AdvertisementRate.cs" />
+    <Compile Include="Advertisement\BaseAdvertisement.cs" />
+    <Compile Include="BasePage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Blog\BaseBlog.cs" />
+    <Compile Include="Blog\Blog.cs" />
+    <Compile Include="Blog\BlogComment.cs" />
+    <Compile Include="Blog\BlogGroup.cs" />
+    <Compile Include="Blog\BlogMiddleTag.cs" />
+    <Compile Include="Blog\BlogRate.cs" />
+    <Compile Include="Blog\BlogTag.cs" />
+    <Compile Include="Blog\BlogTagGroup.cs" />
+    <Compile Include="Blog\BlogUser.cs" />
+    <Compile Include="Chat\BaseChat.cs" />
+    <Compile Include="Chat\Chat_Conversation.cs" />
+    <Compile Include="Chat\Chat_Message.cs" />
+    <Compile Include="Chat\Chat_Part.cs" />
+    <Compile Include="Chat\Chat_Responder.cs" />
+    <Compile Include="CLBase.cs" />
+    <Compile Include="Core\BaseCore.cs" />
+    <Compile Include="Core\CoreMasterPageNameCoreAccessPage.cs" />
+    <Compile Include="Core\CorePageUserControlPathsPageContent.cs" />
+    <Compile Include="Core\CoreThemeSettingMiddelSettingMasterPageName.cs" />
+    <Compile Include="Core\CoreUserControlNamesAccessUserControlPaths.cs" />
+    <Compile Include="Core\CoreUserControlPaths.cs" />
+    <Compile Include="Core\CoreThemeSettingType.cs" />
+    <Compile Include="Core\CoreAccess.cs" />
+    <Compile Include="Core\CoreAccessPage.cs" />
+    <Compile Include="Core\CoreContentNames.cs" />
+    <Compile Include="Core\CoreDomains.cs" />
+    <Compile Include="Core\CoreLocationPageContent.cs" />
+    <Compile Include="Core\CoreMasterPageContents.cs" />
+    <Compile Include="Core\CoreMasterPageGroupName.cs" />
+    <Compile Include="Core\CoreMasterPageNames.cs" />
+    <Compile Include="Core\CoreMasterPageNamesCorePages.cs" />
+    <Compile Include="Core\CorePageContents.cs" />
+    <Compile Include="Core\CorePages.cs" />
+    <Compile Include="Core\CoreParameter.cs" />
+    <Compile Include="Core\CoreThemeMiddleSetting.cs" />
+    <Compile Include="Core\CoreThemeSetting.cs" />
+    <Compile Include="Core\CoreThemeSettingChild.cs" />
+    <Compile Include="Core\CoreUserControlNames.cs" />
+    <Compile Include="Core\CoreUserControlPathsCoreAccess.cs" />
+    <Compile Include="Core\CoreUserControlPaths_PageContents.cs" />
+    <Compile Include="Core\CoreUserControlPosition.cs" />
+    <Compile Include="Core\CoreUserControlSetting.cs" />
+    <Compile Include="ExtensionMethods\CreatePagingControlExtensionMethods.cs" />
+    <Compile Include="ExtensionMethods\PagingExtensionMethods.cs" />
+    <Compile Include="ExtensionMethods\PersianDateExtensionMethods.cs" />
+    <Compile Include="Link\BaseLink.cs" />
+    <Compile Include="Link\LinkGroup.cs" />
+    <Compile Include="Link\Link.cs" />
+    <Compile Include="Menu\BaseMenu.cs" />
+    <Compile Include="Menu\Class1.cs" />
+    <Compile Include="Menu\MenuGroup.cs" />
+    <Compile Include="Menu\MenuUser.cs" />
+    <Compile Include="MyClasses\Folder\MyFolder.cs" />
+    <Compile Include="MyClasses\StrName\MyString.cs" />
+    <Compile Include="MyClasses\Tasavir\MyImage.cs" />
+    <Compile Include="MyClasses\Tasavir\SaveImage.cs" />
+    <Compile Include="Poll\BasePoll.cs" />
+    <Compile Include="Poll\Poll.cs" />
+    <Compile Include="Poll\PollItem.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PineObject.cs" />
+    <Compile Include="Statistics\BaseStatistics.cs" />
+    <Compile Include="Statistics\StatisticDates.cs" />
+    <Compile Include="Store\BaseStore.cs" />
+    <Compile Include="Store\Store_Categories.cs" />
+    <Compile Include="Store\Store_CategoriesConTagGroups.cs" />
+    <Compile Include="Store\Store_Favorite.cs" />
+    <Compile Include="Store\Store_FavoriteGroup.cs" />
+    <Compile Include="Store\Store_PriceDescriptions.cs" />
+    <Compile Include="Store\Store_Prices.cs" />
+    <Compile Include="Store\Store_Products .cs" />
+    <Compile Include="Store\Store_ProductsConCategories.cs" />
+    <Compile Include="Store\Store_ProductsConModules.cs" />
+    <Compile Include="Store\Store_ProductsConSpecificationTexts.cs" />
+    <Compile Include="Store\Store_ProductsConTags.cs" />
+    <Compile Include="Store\Store_Setting.cs" />
+    <Compile Include="Store\Store_Specification.cs" />
+    <Compile Include="Store\Store_SpecificationGroup.cs" />
+    <Compile Include="Store\Store_SpecificationTexts.cs" />
+    <Compile Include="Store\Store_SpecificationTitles.cs" />
+    <Compile Include="Store\Store_TabDescriptions.cs" />
+    <Compile Include="Store\Store_TabModules.cs" />
+    <Compile Include="Store\Store_TagGroups.cs" />
+    <Compile Include="Store\Store_Tags.cs" />
+    <Compile Include="Store\Store_UserScores.cs" />
+    <Compile Include="Store\Store_UserScoreTitles.cs" />
+    <Compile Include="Tag\BaseTag.cs" />
+    <Compile Include="Tag\Tag.cs" />
+    <Compile Include="Tag\TagGroup.cs" />
+    <Compile Include="Tag\TagJunction.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{E2808891-489C-4E75-A8D5-4E20FD57FA33}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

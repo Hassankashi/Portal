@@ -1,0 +1,137 @@
+F:\Eshop Project\E-Shop\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Eshop Project\E-Shop\DAL\bin\Debug\DAL.dll
+F:\Eshop Project\E-Shop\DAL\bin\Debug\DAL.pdb
+F:\Eshop Project\E-Shop\DAL\obj\Debug\DAL.dll
+F:\Eshop Project\E-Shop\DAL\obj\Debug\DAL.pdb
+H:\E-Shop\DAL\bin\Debug\DAL.dll
+H:\E-Shop\DAL\bin\Debug\DAL.pdb
+H:\E-Shop\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\E-Shop\DAL\obj\Debug\DAL.dll
+H:\E-Shop\DAL\obj\Debug\DAL.pdb
+D:\Eshop Class\PWS Shop\eShop 90-03-13\DAL\bin\Debug\DAL.dll
+D:\Eshop Class\PWS Shop\eShop 90-03-13\DAL\bin\Debug\DAL.pdb
+D:\Eshop Class\PWS Shop\eShop 90-03-13\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Eshop Class\PWS Shop\eShop 90-03-13\DAL\obj\Debug\DAL.dll
+D:\Eshop Class\PWS Shop\eShop 90-03-13\DAL\obj\Debug\DAL.pdb
+E:\EShop Class\PWS Shop\eShop 90-03-27\DAL\bin\Debug\DAL.dll
+E:\EShop Class\PWS Shop\eShop 90-03-27\DAL\bin\Debug\DAL.pdb
+E:\EShop Class\PWS Shop\eShop 90-03-27\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\EShop Class\PWS Shop\eShop 90-03-27\DAL\obj\Debug\DAL.dll
+E:\EShop Class\PWS Shop\eShop 90-03-27\DAL\obj\Debug\DAL.pdb
+E:\EShop Class\PWS Shop\eShop 90-04-10\DAL\bin\Debug\DAL.dll
+E:\EShop Class\PWS Shop\eShop 90-04-10\DAL\bin\Debug\DAL.pdb
+E:\EShop Class\PWS Shop\eShop 90-04-10\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\EShop Class\PWS Shop\eShop 90-04-10\DAL\obj\Debug\DAL.dll
+E:\EShop Class\PWS Shop\eShop 90-04-10\DAL\obj\Debug\DAL.pdb
+E:\EShop Class\PWS Shop\eShop 90-05-28\DAL\bin\Debug\DAL.dll
+E:\EShop Class\PWS Shop\eShop 90-05-28\DAL\bin\Debug\DAL.pdb
+E:\EShop Class\PWS Shop\eShop 90-05-28\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\EShop Class\PWS Shop\eShop 90-05-28\DAL\obj\Debug\DAL.dll
+E:\EShop Class\PWS Shop\eShop 90-05-28\DAL\obj\Debug\DAL.pdb
+E:\PWS Shop Project\Site\DAL\bin\Debug\DAL.dll
+E:\PWS Shop Project\Site\DAL\bin\Debug\DAL.pdb
+E:\PWS Shop Project\Site\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\PWS Shop Project\Site\DAL\obj\Debug\DAL.dll
+E:\PWS Shop Project\Site\DAL\obj\Debug\DAL.pdb
+E:\Portal\Portal 1112\portal\DAL\bin\Debug\DAL.dll
+E:\Portal\Portal 1112\portal\DAL\bin\Debug\DAL.pdb
+E:\Portal\Portal 1112\portal\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Portal\Portal 1112\portal\DAL\obj\Debug\DAL.dll
+E:\Portal\Portal 1112\portal\DAL\obj\Debug\DAL.pdb
+E:\Portal\Portal 1120\portal\DAL\bin\Debug\DAL.dll
+E:\Portal\Portal 1120\portal\DAL\bin\Debug\DAL.pdb
+E:\Portal\Portal 1120\portal\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Portal\Portal 1120\portal\DAL\obj\Debug\DAL.dll
+E:\Portal\Portal 1120\portal\DAL\obj\Debug\DAL.pdb
+E:\Portal\Portal 1127\portal\DAL\bin\Debug\DAL.dll
+E:\Portal\Portal 1127\portal\DAL\bin\Debug\DAL.pdb
+E:\Portal\Portal 1127\portal\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Portal\Portal 1127\portal\DAL\obj\Debug\DAL.dll
+E:\Portal\Portal 1127\portal\DAL\obj\Debug\DAL.pdb
+E:\Portal\Portal 920116\portal\DAL\bin\Debug\DAL.dll
+E:\Portal\Portal 920116\portal\DAL\bin\Debug\DAL.pdb
+E:\Portal\Portal 920116\portal\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Portal\Portal 920116\portal\DAL\obj\Debug\DAL.dll
+E:\Portal\Portal 920116\portal\DAL\obj\Debug\DAL.pdb
+E:\Portal\Portal 920123\portal\DAL\bin\Debug\DAL.dll
+E:\Portal\Portal 920123\portal\DAL\bin\Debug\DAL.pdb
+E:\Portal\Portal 920123\portal\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Portal\Portal 920123\portal\DAL\obj\Debug\DAL.dll
+E:\Portal\Portal 920123\portal\DAL\obj\Debug\DAL.pdb
+I:\Portal 920123\portal\DAL\bin\Debug\DAL.dll
+I:\Portal 920123\portal\DAL\bin\Debug\DAL.pdb
+I:\Portal 920123\portal\DAL\obj\Debug\ResolveAssemblyReference.cache
+I:\Portal 920123\portal\DAL\obj\Debug\DAL.dll
+I:\Portal 920123\portal\DAL\obj\Debug\DAL.pdb
+E:\Portal\Portal 920218\portal\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Portal\Portal 920218\portal\DAL\bin\Debug\DAL.dll
+E:\Portal\Portal 920218\portal\DAL\bin\Debug\DAL.pdb
+E:\Portal\Portal 920218\portal\DAL\obj\Debug\DAL.dll
+E:\Portal\Portal 920218\portal\DAL\obj\Debug\DAL.pdb
+D:\Portal 920225\portal\DAL\bin\Debug\DAL.dll
+D:\Portal 920225\portal\DAL\bin\Debug\DAL.pdb
+D:\Portal 920225\portal\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Portal 920225\portal\DAL\obj\Debug\DAL.dll
+D:\Portal 920225\portal\DAL\obj\Debug\DAL.pdb
+E:\Portal\Portal 920301\portal\DAL\bin\Debug\DAL.dll
+E:\Portal\Portal 920301\portal\DAL\bin\Debug\DAL.pdb
+E:\Portal\Portal 920301\portal\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Portal\Portal 920301\portal\DAL\obj\Debug\DAL.dll
+E:\Portal\Portal 920301\portal\DAL\obj\Debug\DAL.pdb
+D:\Portal 920302\portal\DAL\bin\Debug\DAL.dll
+D:\Portal 920302\portal\DAL\bin\Debug\DAL.pdb
+D:\Portal 920302\portal\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Portal 920302\portal\DAL\obj\Debug\DAL.dll
+D:\Portal 920302\portal\DAL\obj\Debug\DAL.pdb
+E:\Portal\Portal 920303\portal\DAL\bin\Debug\DAL.dll
+E:\Portal\Portal 920303\portal\DAL\bin\Debug\DAL.pdb
+E:\Portal\Portal 920303\portal\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Portal\Portal 920303\portal\DAL\obj\Debug\DAL.dll
+E:\Portal\Portal 920303\portal\DAL\obj\Debug\DAL.pdb
+E:\Portal\Portal 920305\portal\DAL\bin\Debug\DAL.dll
+E:\Portal\Portal 920305\portal\DAL\bin\Debug\DAL.pdb
+E:\Portal\Portal 920305\portal\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Portal\Portal 920305\portal\DAL\obj\Debug\DAL.dll
+E:\Portal\Portal 920305\portal\DAL\obj\Debug\DAL.pdb
+E:\Portal\Portal 920307\portal\DAL\bin\Debug\DAL.dll
+E:\Portal\Portal 920307\portal\DAL\bin\Debug\DAL.pdb
+E:\Portal\Portal 920307\portal\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Portal\Portal 920307\portal\DAL\obj\Debug\DAL.dll
+E:\Portal\Portal 920307\portal\DAL\obj\Debug\DAL.pdb
+E:\Portal\Portal 920401\portal\DAL\bin\Debug\DAL.dll
+E:\Portal\Portal 920401\portal\DAL\bin\Debug\DAL.pdb
+E:\Portal\Portal 920401\portal\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Portal\Portal 920401\portal\DAL\obj\Debug\DAL.dll
+E:\Portal\Portal 920401\portal\DAL\obj\Debug\DAL.pdb
+E:\Portal\Portal 920403\portal\DAL\bin\Debug\DAL.dll
+E:\Portal\Portal 920403\portal\DAL\bin\Debug\DAL.pdb
+E:\Portal\Portal 920403\portal\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Portal\Portal 920403\portal\DAL\obj\Debug\DAL.dll
+E:\Portal\Portal 920403\portal\DAL\obj\Debug\DAL.pdb
+E:\Portal\Portal 920610\portal\DAL\bin\Debug\DAL.dll
+E:\Portal\Portal 920610\portal\DAL\bin\Debug\DAL.pdb
+E:\Portal\Portal 920610\portal\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Portal\Portal 920610\portal\DAL\obj\Debug\DAL.dll
+E:\Portal\Portal 920610\portal\DAL\obj\Debug\DAL.pdb
+E:\Portal\Portal 920703\portal\DAL\bin\Debug\DAL.dll
+E:\Portal\Portal 920703\portal\DAL\bin\Debug\DAL.pdb
+E:\Portal\Portal 920703\portal\DAL\obj\Debug\DAL.dll
+E:\Portal\Portal 920703\portal\DAL\obj\Debug\DAL.pdb
+F:\Portal\portal\DAL\bin\Debug\DAL.dll
+F:\Portal\portal\DAL\bin\Debug\DAL.pdb
+F:\Portal\portal\DAL\obj\Debug\DAL.dll
+F:\Portal\portal\DAL\obj\Debug\DAL.pdb
+F:\kashi\Portal 920913\Portal\DAL\bin\Debug\DAL.dll
+F:\kashi\Portal 920913\Portal\DAL\bin\Debug\DAL.pdb
+F:\kashi\Portal 920913\Portal\DAL\obj\Debug\DAL.dll
+F:\kashi\Portal 920913\Portal\DAL\obj\Debug\DAL.pdb
+C:\Users\05\Desktop\kashi\kashi\Portal 920913\Portal\DAL\bin\Debug\DAL.dll
+C:\Users\05\Desktop\kashi\kashi\Portal 920913\Portal\DAL\bin\Debug\DAL.pdb
+C:\Users\05\Desktop\kashi\kashi\Portal 920913\Portal\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\05\Desktop\kashi\kashi\Portal 920913\Portal\DAL\obj\Debug\DAL.dll
+C:\Users\05\Desktop\kashi\kashi\Portal 920913\Portal\DAL\obj\Debug\DAL.pdb
+C:\Users\05\Desktop\kashi\kashi\4\Portal 920913\Portal\DAL\bin\Debug\DAL.dll
+C:\Users\05\Desktop\kashi\kashi\4\Portal 920913\Portal\DAL\bin\Debug\DAL.pdb
+C:\Users\05\Desktop\kashi\kashi\4\Portal 920913\Portal\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\05\Desktop\kashi\kashi\4\Portal 920913\Portal\DAL\obj\Debug\DAL.dll
+C:\Users\05\Desktop\kashi\kashi\4\Portal 920913\Portal\DAL\obj\Debug\DAL.pdb
